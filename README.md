@@ -1,6 +1,6 @@
-# Co-ordnination agent (Gaia <> Mother)
+# Co-ordination agent (Gaia <> Mother)
 
-A modern full-stack AI-enabled template using Next.js for frontend and Express.js for backend, with Telegram and OpenAI integrations! ✨
+Mother Protocol integration with Gaia's Agent Registry using OpenMCP and Collab.Land Framework. Setup instructions below for now:
 
 > [!IMPORTANT]
 > The AI Agent Starter Kit is powered by the Collab.Land AccountKit APIs

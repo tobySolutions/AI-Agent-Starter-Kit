@@ -1,4 +1,4 @@
-# 🤖 AI Agent Starter Kit
+# Co-ordnination agent (Gaia <> Mother)
 
 A modern full-stack AI-enabled template using Next.js for frontend and Express.js for backend, with Telegram and OpenAI integrations! ✨
 
